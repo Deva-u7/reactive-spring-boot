@@ -6,7 +6,7 @@ This project demonstrates the implementation of reactive programming principles 
 - Spring Boot: Framework for building reactive applications.
 - Spring WebFlux: Provides reactive programming support for web applications.
 - MySQL: Relational database used with reactive repositories.
-- Java 17: Programming language used for development.
+- Java 21: Programming language used for development.
 - Maven: Dependency management and build tool.
 
 
